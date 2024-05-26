@@ -13,3 +13,6 @@
 [submodule "hw06"]
 	path = hw06
 	url = https://github.com/kazusa3e/AP1400-2-HW6
+[submodule "hw07"]
+	path = hw07
+	url = https://github.com/kazusa3e/AP1400-2-HW7
