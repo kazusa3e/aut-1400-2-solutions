@@ -15,3 +15,4 @@ Include solutions of all homeworks.
 ## TODO
 
 - [ ] (hw01): bonus question
+- [ ] (hw07): matplotlib
